@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+Sofia Mansilla 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
+Marcelo Valenzuela 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
+=======
+<<<<<<< HEAD
 Token Sofia ghp_VjnhviqKhLF7NdfKriYFI1XE0mHwp11I8HP
 Probando conflictos
 =======
 Sofia Mansilla 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
 Jose Gutierrez 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
 >>>>>>> 6f9a600763b7abe6101ca29365e11ac8c4bacfce
+>>>>>>> 689cd4010e654820e3025b08f553afff5309c23d
